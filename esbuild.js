@@ -25,7 +25,6 @@ if (!production) {
 		open: false, 
 		quiet: true
 	});
-	console.log(`site is up at http://localhost:${port}/index.html`);
 }
 
 const options = {

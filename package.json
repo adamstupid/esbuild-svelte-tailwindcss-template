@@ -11,11 +11,11 @@
   "devDependencies": {
     "esbuild": "^0.14.23",
     "postcss": "^8.4.6",
-    "svelte": "^3.46.4",    
+    "svelte": "^3.46.4",
     "esbuild-svelte": "^0.6.2",
     "@deanc/esbuild-plugin-postcss": "^1.0.2",
     "autoprefixer": "^10.4.2",
     "tailwindcss": "^3.0.23",
-    "live-server": "^1.2.1",
+    "live-server": "^1.2.1"
   }
 }
