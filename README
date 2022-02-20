@@ -1,0 +1,6 @@
+```bash
+git clone git@github.com:adamstupid/esbuild-svelte-tailwindcss-template.git
+cd esbuild-svelte-tailwindcss-template
+npm install 
+```
+
